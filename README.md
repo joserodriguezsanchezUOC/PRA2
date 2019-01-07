@@ -16,4 +16,4 @@ Máster Universitario Data Science (MUDS)
 
 Licencia
 --------
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="Markdown Project Page">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>
